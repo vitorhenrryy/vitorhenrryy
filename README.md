@@ -1,7 +1,6 @@
 ### Olá, Eu sou o Vitor Henrique 🙋🏻
 Cursei Infraestrutura e Redes no IOS patrocinado pela IBM, TOTVS e pela ARCOS DOURADO 👨‍💻🧑‍🎓✅<br>
 Formado pela Etec tecnólogo em Analise e Desenvolvimento de Sistema 👨‍💻🧑‍🎓✅<br>
-Cursando Ensino Superior em Analise e Desenvolvimento de Sistema 👨‍💻<br>
 
 Tecnologias que eu uso no meu dia<br>
 
